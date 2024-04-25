@@ -10,4 +10,4 @@ _Write a driver program to:_
 
 🐤 _Make sure to write neat documentation and comment on your code where necessary to ensure re-usability_ 
 
-🙄 You have been provided with two initial starting points in the provided files [task1_class.py](task1_class.py) and [task1_class_action.py](task1_class_action.py). The use of these starting files **IS NOT** mandatory for this exercise. 
+🙄 You have been provided with two initial starting points in the provided files [task1_class.py](task2_class.py) and [task1_class_action.py](task2_class_action.py). The use of these starting files **IS NOT** mandatory for this exercise. 
